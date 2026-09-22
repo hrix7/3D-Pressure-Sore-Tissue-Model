@@ -1,0 +1,5 @@
+geometry,pressure_kpa,max_displacement_mm,avg_displacement_mm,max_strain,avg_strain,max_stress_pa,avg_stress_pa
+spherical,1,0.21,0.14,0.10,0.0012,85000,12000
+spherical,5,0.98,0.71,0.45,0.0021,310000,26000
+steep-dome,20,4.283,3.167,2.869,0.003563,1211000,52750
+triangular,10,2.35,1.62,1.18,0.0028,680000,41000
