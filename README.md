@@ -39,9 +39,12 @@ SolidWorks, finite element analysis, CAD, Formlabs/PreForm, additive manufacturi
 
 The example table is a sanitized demonstration of the analysis format. It includes my documented steep-dome result at 20 kPa; the remaining rows are illustrative values used only to exercise the code. Original CAD assemblies, proprietary fabrication files, and research records are not included unless cleared for public release.
 
-## Author
+## Author and Project Setting
 
-Hritika Adhikary - M.S. Biomedical Engineering, Arizona State University.
+**Hritika Adhikary**  
+M.S. Biomedical Engineering Applied Project, Arizona State University  
+Research Advisor: Dr. Vincent Pizziconi  
+Spring 2026
 
 ## Rights
 
