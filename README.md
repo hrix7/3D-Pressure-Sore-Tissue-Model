@@ -41,10 +41,11 @@ The example table is a sanitized demonstration of the analysis format. It includ
 
 ## Author and Project Setting
 
-**Hritika Adhikary**  
-M.S. Biomedical Engineering Applied Project, Arizona State University  
-Research Advisor: Dr. Vincent Pizziconi  
-Spring 2026
+**Author:** Hritika Adhikary  
+**Project:** M.S. Biomedical Engineering Applied Project  
+**Institution:** Arizona State University  
+**Research Advisor:** Dr. Vincent Pizziconi  
+**Period:** Spring 2026
 
 ## Rights
 
