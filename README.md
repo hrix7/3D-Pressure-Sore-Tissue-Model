@@ -37,7 +37,7 @@ SolidWorks, finite element analysis, CAD, Formlabs/PreForm, additive manufacturi
 
 ## Data and design note
 
-The code is provided with synthetic example data. Original CAD assemblies, proprietary fabrication files, and research records are not included unless cleared for public release.
+The example table is a sanitized demonstration of the analysis format. It includes my documented steep-dome result at 20 kPa; the remaining rows are illustrative values used only to exercise the code. Original CAD assemblies, proprietary fabrication files, and research records are not included unless cleared for public release.
 
 ## Author
 
